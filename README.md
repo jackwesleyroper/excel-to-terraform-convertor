@@ -1,4 +1,4 @@
-# Created by Joesph Gadd!! (gothub.com/thatmanontv)
+# Created by Joesph Gadd!! (github.com/themanontv)
 
 # Excel to Terraform Converter
 
