@@ -11,4 +11,8 @@ To run the script:
 2. Install the openpyxl module - 'pip install openpyxl'
 3. Run 'python3 Converter.py <filename>.xlsx' (or 'python .\Convertor.py <filename>.py' on windows.
   
+<<<<<<< HEAD
 Enjoy!
+=======
+Enjoy!
+>>>>>>> ad2665b27d1f370063234f95fd82f39ba3be172c
