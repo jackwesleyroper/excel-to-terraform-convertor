@@ -2,7 +2,8 @@
 
 # Excel to Terraform Converter
 
-This script will convert excel spreadsheets containing variables in the format of the examples included in this repository into Terraform HCL formatted configuration files. Included as an example is the foundations.xlsx spreedsheet you can use as a demo.
+This script will convert excel spreadsheets containing variables in the format of the examples included in this repository into Terraform HCL formatted configuration files. Included as an example is the foundations.xlsx spreedsheet you can use as input for the demo. This would be information gathered from the customer by the consultant.
+Included as an example of the output is the foundations.auto.tfvars file.
 
 The script takes colours from the spreadsheet to denote how the output should be formatted, see comments in convertor.py for more info.
 
